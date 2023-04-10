@@ -12,11 +12,7 @@ html
 
 
 /** corpo da página **/
-body {
-   
-   color:red;
-  
-}
+body {color:red;}
 
 /** menu de navegação geral **/
 nav 
@@ -29,9 +25,7 @@ right: 0;
 nav li{
     display:inline;
     padding: 20px;
- 
-
-}
+ }
 
 nav a {
     color: #faf5f5;
